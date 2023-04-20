@@ -1,5 +1,5 @@
+print("Hello Bolio!")
+print("Como eta mi gente!")
 print("Hello Joaco")
 
-print("Hello World!")
-
-print("Goodbye World!")
+print("Adio mi gente!")
