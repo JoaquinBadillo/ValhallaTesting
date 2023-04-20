@@ -1,3 +1,2 @@
-print("Hello World!")
-
-print("Goodbye World!")
+print("Hello Bolio!")
+print("Como eta mi gente!")
